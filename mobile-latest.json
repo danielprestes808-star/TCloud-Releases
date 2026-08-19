@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.0",
-    "versionCode":  12,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.0/tcloud-mobile-1.0.0.apk",
-    "sha256":  "fdbd861258b0f280bec81b53ef0d5fee9dc6addc01e4a24b6e04edbc07e801d3",
-    "notes":  "Base 1.0.0 corrigida para inicializacao estavel no Android.",
+    "version":  "1.0.1",
+    "versionCode":  13,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.1/tcloud-mobile-1.0.1.apk",
+    "sha256":  "8265d426a9e216b14a41332a97f3e41d28b0d1d19b095ba1c95b89ca3c65413c",
+    "notes":  "Videos iniciam mais rapido com streaming por faixas.",
     "mandatory":  false
 }
