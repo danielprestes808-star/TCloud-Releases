@@ -1,0 +1,8 @@
+{
+    "version":  "1.0.0",
+    "versionCode":  12,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.0/tcloud-mobile-1.0.0.apk",
+    "sha256":  "198356851e627a5b3278b6f7f45c3521ef6a160527d473d1c0c06373ca1d5103",
+    "notes":  "Primeira versao release assinada do TCloud Mobile.",
+    "mandatory":  false
+}
