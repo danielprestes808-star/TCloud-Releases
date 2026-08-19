@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.1",
-    "versionCode":  13,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.1/tcloud-mobile-1.0.1.apk",
-    "sha256":  "8265d426a9e216b14a41332a97f3e41d28b0d1d19b095ba1c95b89ca3c65413c",
-    "notes":  "Videos iniciam mais rapido com streaming por faixas.",
+    "version":  "1.0.2",
+    "versionCode":  14,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.2/tcloud-mobile-1.0.2.apk",
+    "sha256":  "000224f84a05ed1f068fd5bde58376fc33f608461eebbcc835288059e3db1a33",
+    "notes":  "Himagens agora carrega todo o historico do album.",
     "mandatory":  false
 }
