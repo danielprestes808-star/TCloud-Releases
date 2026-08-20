@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.2",
-    "versionCode":  14,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.2/tcloud-mobile-1.0.2.apk",
-    "sha256":  "5b744621d925b565b7cb7ae01a544db1c2b70a38b6f44f79586236b1c7bcdc92",
+    "version":  "1.0.3",
+    "versionCode":  15,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.3/tcloud-mobile-1.0.3.apk",
+    "sha256":  "5a7a41eff9a81e047e7112d58a493aa9098049796b48c2bba6283672a43d6577",
     "notes":  "Himagens completo e selecao multipla por arraste.",
     "mandatory":  false
 }
