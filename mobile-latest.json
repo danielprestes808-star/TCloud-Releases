@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.5",
-    "versionCode":  17,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.5/tcloud-mobile-1.0.5.apk",
-    "sha256":  "63fe6ca0bf6ddc7f8d7ba2ffc9d938d36ff8c5746165d9e8cf48a30c56ec8696",
-    "notes":  "Player alinhado no rodape e selecao por arraste com auto-scroll.",
+    "version":  "1.0.6",
+    "versionCode":  18,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.6/tcloud-mobile-1.0.6.apk",
+    "sha256":  "61f3d97a4a1f52f2197eb065778ec777494fba57354877971eb2c1cf8de11996",
+    "notes":  "Player otimizado, mais fluido e sem miniaturas por tras do video.",
     "mandatory":  false
 }
