@@ -2,7 +2,7 @@
     "version":  "1.0.2",
     "versionCode":  14,
     "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.2/tcloud-mobile-1.0.2.apk",
-    "sha256":  "000224f84a05ed1f068fd5bde58376fc33f608461eebbcc835288059e3db1a33",
-    "notes":  "Himagens agora carrega todo o historico do album.",
+    "sha256":  "5b744621d925b565b7cb7ae01a544db1c2b70a38b6f44f79586236b1c7bcdc92",
+    "notes":  "Himagens completo e selecao multipla por arraste.",
     "mandatory":  false
 }
