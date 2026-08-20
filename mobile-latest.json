@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.4",
-    "versionCode":  16,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.4/tcloud-mobile-1.0.4.apk",
-    "sha256":  "d17a5b9b15a31cc2e39194d56507857a10a6b6be2ea3a4ca7cea4850918b0d9d",
-    "notes":  "Novo player de video mais rapido e compativel, inspirado no Telegram.",
+    "version":  "1.0.5",
+    "versionCode":  17,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.5/tcloud-mobile-1.0.5.apk",
+    "sha256":  "63fe6ca0bf6ddc7f8d7ba2ffc9d938d36ff8c5746165d9e8cf48a30c56ec8696",
+    "notes":  "Player alinhado no rodape e selecao por arraste com auto-scroll.",
     "mandatory":  false
 }
