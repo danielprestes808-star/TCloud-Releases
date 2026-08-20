@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.7",
-    "versionCode":  19,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.7/tcloud-mobile-1.0.7.apk",
-    "sha256":  "488f6b54511a24dd495fb48653eb26e9562b48250aaf31dc1324f677f8ed7390",
-    "notes":  "Galeria otimizada para evitar crash durante carregamentos longos.",
+    "version":  "1.0.8",
+    "versionCode":  20,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.8/tcloud-mobile-1.0.8.apk",
+    "sha256":  "10ac9d5695da008c160f9de0de3aeb36158ea38206029c0d7a7afb39ce58a3c7",
+    "notes":  "Smart Storage, backup organizado por pastas e opcao Desfazer backup.",
     "mandatory":  false
 }
