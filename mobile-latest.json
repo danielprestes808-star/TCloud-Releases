@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.8",
-    "versionCode":  20,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.8/tcloud-mobile-1.0.8.apk",
-    "sha256":  "10ac9d5695da008c160f9de0de3aeb36158ea38206029c0d7a7afb39ce58a3c7",
-    "notes":  "Smart Storage, backup organizado por pastas e opcao Desfazer backup.",
+    "version":  "1.0.9",
+    "versionCode":  21,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.9/tcloud-mobile-1.0.9.apk",
+    "sha256":  "d1c1c05f879447c588b7463e2eae0ac957fb93c7099d8b42aab809b6f4926cda",
+    "notes":  "Progresso do download na barra de notificacoes e aviso quando a atualizacao estiver pronta.",
     "mandatory":  false
 }
