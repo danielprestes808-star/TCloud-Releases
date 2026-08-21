@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.10",
-    "versionCode":  22,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.10/tcloud-mobile-1.0.10.apk",
-    "sha256":  "ad47c2d02b61dc7ce5b0ddaa96f45914f5d7e08244de24f1da21d38c7dd8faac",
-    "notes":  "Corrige backup por albuns/pastas e adiciona progresso do download da atualizacao na barra de notificacoes.",
+    "version":  "1.0.11",
+    "versionCode":  23,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.11/tcloud-mobile-1.0.11.apk",
+    "sha256":  "fc947f68faa97cc2aea5ad437898fbabfcb069cc0930add0d51e1e33e1245f4f",
+    "notes":  "Downloader nativo em segundo plano com retomada e correcao do backup por albuns.",
     "mandatory":  false
 }
