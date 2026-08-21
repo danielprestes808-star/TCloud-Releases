@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.11",
-    "versionCode":  23,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.11/tcloud-mobile-1.0.11.apk",
-    "sha256":  "fc947f68faa97cc2aea5ad437898fbabfcb069cc0930add0d51e1e33e1245f4f",
-    "notes":  "Downloader nativo em segundo plano com retomada e correcao do backup por albuns.",
+    "version":  "1.0.12",
+    "versionCode":  24,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.12/tcloud-mobile-1.0.12.apk",
+    "sha256":  "1a9688e243f8aa5157ba1e451b6dfcdb2252f8ea69f6f7b986e921e07151c579",
+    "notes":  "Nova Home estilo galeria, backup automatico por pastas, melhor desempenho, Ajustes simplificados e popup de atualizacao.",
     "mandatory":  false
 }
