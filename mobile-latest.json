@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.12",
-    "versionCode":  24,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.12/tcloud-mobile-1.0.12.apk",
-    "sha256":  "1a9688e243f8aa5157ba1e451b6dfcdb2252f8ea69f6f7b986e921e07151c579",
-    "notes":  "Nova Home estilo galeria, backup automatico por pastas, melhor desempenho, Ajustes simplificados e popup de atualizacao.",
+    "version":  "1.0.13",
+    "versionCode":  25,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.13/tcloud-mobile-1.0.13.apk",
+    "sha256":  "3e0edfb34cb38a556e60b125224faa13dac6ae553f168e21d42e13457b6e7c53",
+    "notes":  "Corrige Albuns/Offline invertidos e adiciona caixa de acoes ao tocar nos albuns.",
     "mandatory":  false
 }
