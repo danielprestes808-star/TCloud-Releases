@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.16",
-    "versionCode":  28,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.16/tcloud-mobile-1.0.16.apk",
-    "sha256":  "de3b0674ef11c074188b2662d4917b1eaf122de80aa49b3c49f6cbd59c1e11dc",
-    "notes":  "Galeria passa a ser a pasta-pai e os albuns do celular ficam dentro dela. Corrige leitura de Camera, Screenshots, WhatsApp e demais pastas.",
+    "version":  "1.0.17",
+    "versionCode":  29,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.17/tcloud-mobile-1.0.17.apk",
+    "sha256":  "d4b74b2a51766679f7f55e3b31a05586b940aadf95a32998450a9741ea19aa3b",
+    "notes":  "Albuns dentro de Galeria agora abrem diretamente com um toque; o menu de tres pontos fica apenas para opcoes.",
     "mandatory":  false
 }
