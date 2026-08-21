@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.17",
-    "versionCode":  29,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.17/tcloud-mobile-1.0.17.apk",
-    "sha256":  "d4b74b2a51766679f7f55e3b31a05586b940aadf95a32998450a9741ea19aa3b",
-    "notes":  "Albuns dentro de Galeria agora abrem diretamente com um toque; o menu de tres pontos fica apenas para opcoes.",
+    "version":  "1.0.18",
+    "versionCode":  30,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.18/tcloud-mobile-1.0.18.apk",
+    "sha256":  "696a708de343dd788b590f766ea3d9dad078dd8ca313329771db23e8bc200c62",
+    "notes":  "Albuns abrem com um toque e o backup usa uploader TDLib nativo tipado para corrigir pastas sem conteudo.",
     "mandatory":  false
 }
