@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.13",
-    "versionCode":  25,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.13/tcloud-mobile-1.0.13.apk",
-    "sha256":  "3e0edfb34cb38a556e60b125224faa13dac6ae553f168e21d42e13457b6e7c53",
-    "notes":  "Corrige Albuns/Offline invertidos e adiciona caixa de acoes ao tocar nos albuns.",
+    "version":  "1.0.14",
+    "versionCode":  26,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.14/tcloud-mobile-1.0.14.apk",
+    "sha256":  "b36329f7f6d5c59670e5050869db95d83938ae18d5e5bec306efb9eb753057a2",
+    "notes":  "Corrige definitivamente a inversao entre Albuns/Home e Offline.",
     "mandatory":  false
 }
