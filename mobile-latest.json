@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.14",
-    "versionCode":  26,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.14/tcloud-mobile-1.0.14.apk",
-    "sha256":  "b36329f7f6d5c59670e5050869db95d83938ae18d5e5bec306efb9eb753057a2",
-    "notes":  "Corrige definitivamente a inversao entre Albuns/Home e Offline.",
+    "version":  "1.0.15",
+    "versionCode":  27,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.15/tcloud-mobile-1.0.15.apk",
+    "sha256":  "7c4177baad1f8f2356a6e6eb9650a5c7af6946ce6f25cbff170c8ac90a210141",
+    "notes":  "Corrige backup de fotos/videos, pagina toda a galeria e faz o desfazer remover tambem as pastas automaticas vazias.",
     "mandatory":  false
 }
