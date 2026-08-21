@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.19",
-    "versionCode":  31,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.19/tcloud-mobile-1.0.19.apk",
-    "sha256":  "07afdec3b95868d88038042d0c0295cc7b4757dd5b14ccb43d34b6922ec30383",
-    "notes":  "Corrige Outros, identifica os albuns pelo caminho real e acelera o backup com leitura maior, 5 uploads paralelos e persistencia em lotes.",
+    "version":  "1.0.20",
+    "versionCode":  32,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.20/tcloud-mobile-1.0.20.apk",
+    "sha256":  "4cc532aa76abaf2a5f8da57af182a3e3a299d1d88f9c668ca1cd5256c5bb453e",
+    "notes":  "Corrige miniaturas trocadas entre albuns e otimiza cache, capas e prefetch.",
     "mandatory":  false
 }
