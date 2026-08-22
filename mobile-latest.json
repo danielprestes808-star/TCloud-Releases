@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.20",
-    "versionCode":  32,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.20/tcloud-mobile-1.0.20.apk",
-    "sha256":  "4cc532aa76abaf2a5f8da57af182a3e3a299d1d88f9c668ca1cd5256c5bb453e",
-    "notes":  "Corrige miniaturas trocadas entre albuns e otimiza cache, capas e prefetch.",
+    "version":  "1.0.21",
+    "versionCode":  33,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.21/tcloud-mobile-1.0.21.apk",
+    "sha256":  "1c7a13627a66f54e048148dff25e5549536627bd2537d746a6cf77a1f228ab02",
+    "notes":  "Design System 1.0: visual, cores, navegacao e linguagem alinhados ao TCloud Desktop.",
     "mandatory":  false
 }
