@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.21",
-    "versionCode":  33,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.21/tcloud-mobile-1.0.21.apk",
-    "sha256":  "1c7a13627a66f54e048148dff25e5549536627bd2537d746a6cf77a1f228ab02",
-    "notes":  "Design System 1.0: visual, cores, navegacao e linguagem alinhados ao TCloud Desktop.",
+    "version":  "1.0.22",
+    "versionCode":  34,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.22/tcloud-mobile-1.0.22.apk",
+    "sha256":  "c49d62adfabe71a43ab565b03274d22a511f3c4dd2fd87c0ea23f5cda7008adf",
+    "notes":  "Credenciais Telegram agora acompanham o APK; o usuario nao precisa informar API ID nem API Hash.",
     "mandatory":  false
 }
