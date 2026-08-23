@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.23",
-    "versionCode":  35,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.23/tcloud-mobile-1.0.23.apk",
-    "sha256":  "771ff316e32ba881478c9ae47e25c1185dc3da67e5183a730ce3ea3c007826b4",
-    "notes":  "Sync Integrity: albuns corretos, miniaturas deterministicas e cache de midia corrigido.",
+    "version":  "1.0.24",
+    "versionCode":  36,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.24/tcloud-mobile-1.0.24.apk",
+    "sha256":  "7ca7a3aefcc3f6211fffff9e7051128583d5c411bf7d785b592b9c9b257f1275",
+    "notes":  "Player: identidade correta por arquivo, retry local e ordem cronologica da galeria.",
     "mandatory":  false
 }
