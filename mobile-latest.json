@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.28",
-    "versionCode":  40,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.28/tcloud-mobile-1.0.28.apk",
-    "sha256":  "bad47685fcc5e118984317d9fa353b8d140cc451ae37a464a34f105322d93848",
+    "version":  "1.0.29",
+    "versionCode":  41,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.29/tcloud-mobile-1.0.29.apk",
+    "sha256":  "e1bffbcb9a0a3830a8cfdb9989ca905c6c28151c9864890ae040801e7f55f69c",
     "notes":  "Streaming estabilizado, troca de video imediata, miniaturas mais rapidas e barra de progresso alinhada.",
     "mandatory":  false
 }
