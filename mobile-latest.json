@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.31",
-    "versionCode":  43,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.31/TCloud-Mobile-1.0.31.apk",
-    "sha256":  "e524ab54e3fc6ecde93690a59728b0f6c316de19f73fd922c23eb18ee7909073",
-    "notes":  "Media Manager 9.0: midias e miniaturas pre-carregadas, cache inteligente de ate 2 GB e video com fast-start.",
+    "version":  "1.0.32",
+    "versionCode":  44,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.32/TCloud-Mobile-1.0.32.apk",
+    "sha256":  "7ef8328f3b9c6067b0714fcf204c4febc8bfacae6182fb37cb2a00e4dbd5404d",
+    "notes":  "Corrige credenciais Telegram no build. O TCloud nao pede mais API ID/API Hash ao usuario.",
     "mandatory":  false
 }
