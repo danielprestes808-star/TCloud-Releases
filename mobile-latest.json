@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.40",
-    "versionCode":  52,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.40/TCloud-Mobile-1.0.40.apk",
-    "sha256":  "6574249640d6245d334f11136deb70b1608a90f91b727e372b315abcd055f863",
-    "notes":  "TCloud 1.0.40 - reproducao de videos corrigida, streaming local Android liberado e melhorias de confiabilidade do updater.",
+    "version":  "1.0.41",
+    "versionCode":  53,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.41/TCloud-Mobile-1.0.41.apk",
+    "sha256":  "74adb0c8bf730ad0b35f926989190f86e7f634811c6ae533a9951151abbf30e7",
+    "notes":  "TCloud 1.0.41 - filtro anti-fantasma reforcado: nomes timestamp/Screenshot agora exigem mensagem Telegram real antes de aparecer.",
     "mandatory":  false
 }
