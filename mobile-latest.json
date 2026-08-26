@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.41",
-    "versionCode":  53,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.41/TCloud-Mobile-1.0.41.apk",
-    "sha256":  "74adb0c8bf730ad0b35f926989190f86e7f634811c6ae533a9951151abbf30e7",
-    "notes":  "TCloud 1.0.41 - filtro anti-fantasma reforcado: nomes timestamp/Screenshot agora exigem mensagem Telegram real antes de aparecer.",
+    "version":  "1.0.42",
+    "versionCode":  54,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.42/TCloud-Mobile-1.0.42.apk",
+    "sha256":  "671764c9cf1e4104d4b6d5abcd597cb5a45686dc1317c1d294461332bce01395",
+    "notes":  "TCloud 1.0.42 - pastas duplicadas unificadas por nome canonico; cache antigo isolado; topicos fisicos Telegram preservados e seus conteudos reunidos.",
     "mandatory":  false
 }
