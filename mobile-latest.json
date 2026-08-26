@@ -2,7 +2,7 @@
     "version":  "1.0.39",
     "versionCode":  51,
     "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.39/TCloud-Mobile-1.0.39.apk",
-    "sha256":  "9e66c6cfb09252a600cf89c9521650c3136c5763b8a6009c800fabbb256ef7a5",
-    "notes":  "TCloud 1.0.39 - updater mais confiavel: manifesto sem cache e nova tentativa automatica se a verificacao inicial falhar.",
+    "sha256":  "a3b318b114cadb880b590139a1c2eba27d978514c572483e06ed7092fcb7c6ec",
+    "notes":  "TCloud 1.0.39 - reproducao de video corrigida para o streaming local 127.0.0.1, alem das melhorias de pastas e updater.",
     "mandatory":  false
 }
