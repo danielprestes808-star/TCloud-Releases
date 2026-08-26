@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.36",
-    "versionCode":  48,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.36/TCloud-Mobile-1.0.36.apk",
-    "sha256":  "cb4b250b1450b75468cf7c9ee2ad2f6daf2ac6e379a67eb0c173af9e28f145da",
-    "notes":  "TCloud Mobile 1.0.36+48. Filtra registros fantasmas diretamente na leitura ao vivo do Telegram, invalida o cache v3 e usa cache v4 verificado. Itens timestamp_* sem arquivo local valido nem identidade remota real deixam de aparecer.",
+    "version":  "1.0.37",
+    "versionCode":  49,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.37/TCloud-Mobile-1.0.37.apk",
+    "sha256":  "474b8b206154e6d32850ed6899e25bfe07f3f9c187c77a42cc8a3c8252c62f4a",
+    "notes":  "TCloud 1.0.37 - Identidade visual 2.0: nova marca e icones, paleta Marfim/Marinho/Terracota, suporte Claro/Escuro/Sistema, tema persistente e componentes legados adaptados.",
     "mandatory":  false
 }
