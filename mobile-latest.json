@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.32",
-    "versionCode":  44,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.32/TCloud-Mobile-1.0.32.apk",
-    "sha256":  "7ef8328f3b9c6067b0714fcf204c4febc8bfacae6182fb37cb2a00e4dbd5404d",
-    "notes":  "Corrige credenciais Telegram no build. O TCloud nao pede mais API ID/API Hash ao usuario.",
+    "version":  "1.0.33",
+    "versionCode":  45,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.33/TCloud-Mobile-1.0.33.apk",
+    "sha256":  "5f8436e70045f149d672b456d960f6a3124fde9513ee68509683faf547fe7044",
+    "notes":  "TCloud Mobile 1.0.33+45. Interface simplificada, sincronizacao preservada e melhorias finais de estabilidade.",
     "mandatory":  false
 }
