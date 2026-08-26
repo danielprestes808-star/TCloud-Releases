@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.37",
-    "versionCode":  49,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.37/TCloud-Mobile-1.0.37.apk",
-    "sha256":  "474b8b206154e6d32850ed6899e25bfe07f3f9c187c77a42cc8a3c8252c62f4a",
-    "notes":  "TCloud 1.0.37 - Identidade visual 2.0: nova marca e icones, paleta Marfim/Marinho/Terracota, suporte Claro/Escuro/Sistema, tema persistente e componentes legados adaptados.",
+    "version":  "1.0.38",
+    "versionCode":  50,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.38/TCloud-Mobile-1.0.38.apk",
+    "sha256":  "f1f36ca2a71544d1858f3548e40a3fc5411ea1ded769b9bbff8631910a4950a2",
+    "notes":  "TCloud 1.0.38 - pastas logicas unificadas, conteudo recuperado sem arquivos fantasmas, abertura e identidade visual aprimoradas.",
     "mandatory":  false
 }
