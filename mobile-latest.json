@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.43",
-    "versionCode":  55,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.43/TCloud-Mobile-1.0.43.apk",
-    "sha256":  "8d6b9236207ba1e496792d3b1337e03c51fc33ee19e19943462af1d633b79165",
-    "notes":  "TCloud 1.0.43 - pastas de mesmo nome sao unificadas globalmente, mesmo entre chats Telegram diferentes, com conteudo combinado e anti-fantasma preservado.",
+    "version":  "1.0.44",
+    "versionCode":  56,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.44/TCloud-Mobile-1.0.44.apk",
+    "sha256":  "464e674c76fc84a368e3864c4f1fba5eeb3b5033143bd5662d1b099001807f3a",
+    "notes":  "TCloud 1.0.44 - Mobile conectado ao TCloud Core cloud via HTTPS, mantendo TDLib e player HTTP local preservados.",
     "mandatory":  false
 }
