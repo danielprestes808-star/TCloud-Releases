@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.49",
-    "versionCode":  61,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.49/TCloud-Mobile-1.0.49.apk",
-    "sha256":  "8372e0319beea1991f5ea927c0098fa89114d6e3b9eaae06fb4c0e2c6d2f8126",
-    "notes":  "TCloud 1.0.49 - repara o journal de backup, revalida quais midias realmente existem no Telegram e refaz a varredura historica para reenviar o que estiver faltando.",
+    "version":  "1.0.50",
+    "versionCode":  62,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.50/TCloud-Mobile-1.0.50.apk",
+    "sha256":  "10492862f8975a288674c97e036a42cf4e22d6dbbe322e0ec3f035701f024cca",
+    "notes":  "TCloud 1.0.50 - backup quase em tempo real em segundo plano: MediaStore detecta novas fotos e videos e agenda upload em poucos segundos, mantendo WorkManager periodico como fallback.",
     "mandatory":  false
 }
