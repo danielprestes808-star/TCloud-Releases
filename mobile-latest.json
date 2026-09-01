@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.53",
-    "versionCode":  65,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.53/TCloud-Mobile-1.0.53.apk",
-    "sha256":  "eeb6f290f5f606acca57a236579faaca291b8bc27bad4e246ee104c7941a088d",
-    "notes":  "TCloud 1.0.53 - fila de sincronizacao sem perda: falhas temporarias de upload ou copia permanecem na fila para retry automatico. Sync Turbo, progresso nas notificacoes, tela de fila e Telegram Cache Fast Path preservados.",
+    "version":  "1.0.54",
+    "versionCode":  66,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.54/TCloud-Mobile-1.0.54.apk",
+    "sha256":  "207e8739c080eec2dcc7036b8765cd9e3b387a2e300b62e54390e178afeeb406",
+    "notes":  "TCloud 1.0.54 - recuperacao historica de midias que ficaram sem sincronizar em versoes anteriores. Reabre uma varredura completa, mantem arquivos ja confirmados protegidos contra duplicacao e preserva retry sem perda, Sync Turbo, progresso nas notificacoes e Telegram Cache Fast Path.",
     "mandatory":  false
 }
