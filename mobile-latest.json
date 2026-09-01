@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.47",
-    "versionCode":  59,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.47/TCloud-Mobile-1.0.47.apk",
-    "sha256":  "7b5af8104b13fc6c1edce363c4d5eeae0a875bcd69ed87aaddadbf16e959050f",
-    "notes":  "TCloud 1.0.47 - corrige leitura de pastas existentes com compatibilidade entre forumTopicId e messageThreadId, permitindo recuperar imagens e videos ja presentes no Telegram.",
+    "version":  "1.0.48",
+    "versionCode":  60,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.48/TCloud-Mobile-1.0.48.apk",
+    "sha256":  "eabda215e5b2826b53f6b33aa4e696e0fa085129a6ba4e5bfa4b97fc2346589f",
+    "notes":  "TCloud 1.0.48 - unifica albums duplicados como album, album (1) e album (2) em uma unica pasta logica e agrega o conteudo de todos os topicos fisicos.",
     "mandatory":  false
 }
