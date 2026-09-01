@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.46",
-    "versionCode":  58,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.46/TCloud-Mobile-1.0.46.apk",
-    "sha256":  "83eb1ec09abd915d9e44370102d554582f8076d6dc9e1dd3b6429822e2182536",
-    "notes":  "TCloud 1.0.46 - pastas existentes passam a consultar conteudo vivo para exibir imagens e videos ja presentes no Telegram, mantendo cache como fallback offline.",
+    "version":  "1.0.47",
+    "versionCode":  59,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.47/TCloud-Mobile-1.0.47.apk",
+    "sha256":  "7b5af8104b13fc6c1edce363c4d5eeae0a875bcd69ed87aaddadbf16e959050f",
+    "notes":  "TCloud 1.0.47 - corrige leitura de pastas existentes com compatibilidade entre forumTopicId e messageThreadId, permitindo recuperar imagens e videos ja presentes no Telegram.",
     "mandatory":  false
 }
