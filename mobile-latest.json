@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.50",
-    "versionCode":  62,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.50/TCloud-Mobile-1.0.50.apk",
-    "sha256":  "10492862f8975a288674c97e036a42cf4e22d6dbbe322e0ec3f035701f024cca",
-    "notes":  "TCloud 1.0.50 - backup quase em tempo real em segundo plano: MediaStore detecta novas fotos e videos e agenda upload em poucos segundos, mantendo WorkManager periodico como fallback.",
+    "version":  "1.0.51",
+    "versionCode":  63,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.51/TCloud-Mobile-1.0.51.apk",
+    "sha256":  "8cf00f5292ce632be58114d7c3c82226214c2ca143addf67a8a3afc134396854",
+    "notes":  "TCloud 1.0.51 - sincronizacao acelerada com ate 4 uploads simultaneos e nova tela em Configuracoes para acompanhar fila, enviados, pendentes e falhas.",
     "mandatory":  false
 }
