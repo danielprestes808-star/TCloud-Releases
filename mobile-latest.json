@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.44",
-    "versionCode":  56,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.44/TCloud-Mobile-1.0.44.apk",
-    "sha256":  "464e674c76fc84a368e3864c4f1fba5eeb3b5033143bd5662d1b099001807f3a",
-    "notes":  "TCloud 1.0.44 - Mobile conectado ao TCloud Core cloud via HTTPS, mantendo TDLib e player HTTP local preservados.",
+    "version":  "1.0.45",
+    "versionCode":  57,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.45/TCloud-Mobile-1.0.45.apk",
+    "sha256":  "d0269bfe960b0bd02804e2a6a8ef1efa0dc788e2ec8c5f3eb46f117199f86e0c",
+    "notes":  "TCloud 1.0.45 - sincronizacao de imagens e videos acelerada com prioridade para midia nova e dois workers conservadores de upload.",
     "mandatory":  false
 }
