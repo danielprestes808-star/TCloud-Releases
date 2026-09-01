@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.48",
-    "versionCode":  60,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.48/TCloud-Mobile-1.0.48.apk",
-    "sha256":  "eabda215e5b2826b53f6b33aa4e696e0fa085129a6ba4e5bfa4b97fc2346589f",
-    "notes":  "TCloud 1.0.48 - unifica albums duplicados como album, album (1) e album (2) em uma unica pasta logica e agrega o conteudo de todos os topicos fisicos.",
+    "version":  "1.0.49",
+    "versionCode":  61,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.49/TCloud-Mobile-1.0.49.apk",
+    "sha256":  "8372e0319beea1991f5ea927c0098fa89114d6e3b9eaae06fb4c0e2c6d2f8126",
+    "notes":  "TCloud 1.0.49 - repara o journal de backup, revalida quais midias realmente existem no Telegram e refaz a varredura historica para reenviar o que estiver faltando.",
     "mandatory":  false
 }
