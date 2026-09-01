@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.51",
-    "versionCode":  63,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.51/TCloud-Mobile-1.0.51.apk",
-    "sha256":  "8cf00f5292ce632be58114d7c3c82226214c2ca143addf67a8a3afc134396854",
-    "notes":  "TCloud 1.0.51 - sincronizacao acelerada com ate 4 uploads simultaneos e nova tela em Configuracoes para acompanhar fila, enviados, pendentes e falhas.",
+    "version":  "1.0.52",
+    "versionCode":  64,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.52/TCloud-Mobile-1.0.52.apk",
+    "sha256":  "4e516903d92405cb9ea0c6ec8a857a43eb39b85556c32037eebe303595b51458",
+    "notes":  "TCloud 1.0.52 - progresso da sincronizacao na barra de notificacoes, Telegram Cache Fast Path para abrir imagens mais rapido e Sync Turbo preservado.",
     "mandatory":  false
 }
