@@ -1,8 +1,8 @@
 {
-  "version": "1.0.58",
-  "versionCode": 70,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.58/TCloud-Mobile-1.0.58.apk",
-  "sha256": "1d076b8bcf83a319b50b7612895484bac309723858243869849689d6922fa4d5",
-  "notes": "TCloud Mobile 1.0.58 - restaura a identidade original de cada pasta e topico, impede que pastas com nomes iguais sejam misturadas, renova os caches contaminados e preserva o destino da sincronizacao da galeria.",
+  "version": "1.0.59",
+  "versionCode": 71,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.59/TCloud-Mobile-1.0.59.apk",
+  "sha256": "b3fa9151a57bbf8033e5c580beb004aefc799ffa5a9e5a3d8793ba1ceb52c349",
+  "notes": "TCloud Mobile 1.0.59 - nova interface mais moderna e intuitiva, inicio unificado, busca direta, painel de biblioteca, atalhos claros, pastas identificadas pela origem, navegacao simplificada e listas/grades renovadas.",
   "mandatory": false
 }
