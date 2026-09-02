@@ -2,7 +2,7 @@
     "version":  "1.0.55",
     "versionCode":  67,
     "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.55/TCloud-Mobile-1.0.55.apk",
-    "sha256":  "378429b69e14c96ff11bc089ed0783e31d3349111f4202ae6b0efa1f12a3809b",
+    "sha256":  "732e5ed40b18e01cd169908abcb8440836237fc098f915f11554030379d92f6d",
     "notes":  "TCloud Mobile 1.0.55 - carregamento mais rapido, cache de pastas e midias otimizado, abertura resiliente de arquivos, interface adaptativa, mensagens de erro melhores e recuperacao de arquivos antigos.",
     "mandatory":  false
 }
