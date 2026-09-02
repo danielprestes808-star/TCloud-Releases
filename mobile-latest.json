@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.56",
-    "versionCode":  68,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.56/TCloud-Mobile-1.0.56.apk",
-    "sha256":  "d5a20d7d99911ee7e3475a07ecc45e9a736985d53548121aeea3f72d09bd408e",
-    "notes":  "TCloud Mobile 1.0.56 - carregamento mais rapido, cache de pastas e midias otimizado, abertura resiliente de arquivos, interface adaptativa, mensagens de erro melhores e recuperacao de arquivos antigos.",
-    "mandatory":  false
+  "version": "1.0.57",
+  "versionCode": 69,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.57/TCloud-Mobile-1.0.57.apk",
+  "sha256": "1d36922b87033d98122b76de6e36ed1f4a62c41f23fa06a2cde7876714dc1d81",
+  "notes": "TCloud Mobile 1.0.57 - tentar novamente agora renova os dados da midia no Telegram, downloads falhos recebem uma segunda tentativa real, catalogo salvo aparece imediatamente e miniaturas deixam de disputar toda a conexao.",
+  "mandatory": false
 }
