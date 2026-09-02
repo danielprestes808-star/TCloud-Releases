@@ -1,8 +1,8 @@
 {
-  "version": "1.0.57",
-  "versionCode": 69,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.57/TCloud-Mobile-1.0.57.apk",
-  "sha256": "1d36922b87033d98122b76de6e36ed1f4a62c41f23fa06a2cde7876714dc1d81",
-  "notes": "TCloud Mobile 1.0.57 - tentar novamente agora renova os dados da midia no Telegram, downloads falhos recebem uma segunda tentativa real, catalogo salvo aparece imediatamente e miniaturas deixam de disputar toda a conexao.",
+  "version": "1.0.58",
+  "versionCode": 70,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.58/TCloud-Mobile-1.0.58.apk",
+  "sha256": "1d076b8bcf83a319b50b7612895484bac309723858243869849689d6922fa4d5",
+  "notes": "TCloud Mobile 1.0.58 - restaura a identidade original de cada pasta e topico, impede que pastas com nomes iguais sejam misturadas, renova os caches contaminados e preserva o destino da sincronizacao da galeria.",
   "mandatory": false
 }
