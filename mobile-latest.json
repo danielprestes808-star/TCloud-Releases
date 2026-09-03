@@ -1,8 +1,8 @@
 {
-  "version": "1.0.61",
-  "versionCode": 73,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.61/TCloud-Mobile-1.0.61.apk",
-  "sha256": "8d08f1f8766e13dcb71208e01b3e81bc19218ba838ff6b12632b9237a7021041",
-  "notes": "TCloud Mobile 1.0.61 - pastas do Telegram com o mesmo nome voltam a aparecer unificadas no app, preservando todas as origens e midias; caches fisicos antigos sao combinados para evitar pastas vazias.",
+  "version": "1.0.62",
+  "versionCode": 74,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.62/TCloud-Mobile-1.0.62.apk",
+  "sha256": "b2722058bf3ae5fd1fb1671165937276ce7ab23b13099d2de4eb1e23e956b2cd",
+  "notes": "TCloud Mobile 1.0.62 - unifica pastas numeradas como nome, nome (1) e nome (2); remove midias repetidas pelo ID remoto; corrige a reproducao quando dois itens compartilham o mesmo fileId e renova caches antigos automaticamente.",
   "mandatory": false
 }
