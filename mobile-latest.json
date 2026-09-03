@@ -1,8 +1,8 @@
 {
-  "version": "1.0.63",
-  "versionCode": 75,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.63/TCloud-Mobile-1.0.63.apk",
-  "sha256": "37c183094a40514eea93246fd493428c8d155a00108411d9a8acd58bf390ff24",
-  "notes": "TCloud Mobile 1.0.63 - libera corretamente o streaming interno em 127.0.0.1; Baixar e reproduzir agora remove a copia local defeituosa e baixa a midia novamente; a tela mostra o motivo tecnico caso um formato ainda nao possa ser reproduzido.",
+  "version": "1.0.64",
+  "versionCode": 76,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.64/TCloud-Mobile-1.0.64.apk",
+  "sha256": "92a2ace93da6b6a3f6f6e93ca6cb2d5b89215d9483e179aa384c40e3dde613cb",
+  "notes": "TCloud Mobile 1.0.64 - corrige a causa dos IDs temporarios e downloads cancelados: o app agora espera o Telegram confirmar o upload antes de registrar a midia ou apagar o arquivo-fonte; envios antigos com falha sao retirados da biblioteca e recolocados para sincronizacao; timestamps indevidos deixam de aparecer no nome.",
   "mandatory": false
 }
