@@ -1,8 +1,8 @@
 {
-  "version": "1.0.66",
-  "versionCode": 78,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.66/TCloud-Mobile-1.0.66.apk",
-  "sha256": "1c21fab46e3e52c8195d078ec50eb495cd4c691362f2f4a5eadd166ab2bf6e02",
-  "notes": "TCloud Mobile 1.0.66 muda a navegacao da Galeria: as subpastas agora abrem em uma tela completa com busca, visualizacao em grade ou lista, atualizacao por gesto e indicacao de pastas unificadas.",
+  "version": "1.0.67",
+  "versionCode": 79,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.67/TCloud-Mobile-1.0.67.apk",
+  "sha256": "918aa3b4cc75c2c378ff99f778f58163cb20de1bc742ce85f45debf3e9a334c6",
+  "notes": "TCloud Mobile 1.0.67 corrige o limite Too Many Requests do backup: respeita automaticamente o tempo pedido pelo Telegram, interrompe novas requisicoes, preserva os arquivos na fila, evita sincronizacoes duplicadas e mostra uma mensagem clara com o tempo de espera.",
   "mandatory": false
 }
