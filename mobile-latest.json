@@ -1,8 +1,8 @@
 {
-  "version": "1.0.68",
-  "versionCode": 80,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.68/TCloud-Mobile-1.0.68.apk",
-  "sha256": "c91dd2a15b751ff635f3ef1d6a5f7174aaa413eeed7afdbfbc0ee159078495f5",
-  "notes": "TCloud Mobile 1.0.68 mantem o backup funcionando com o app fechado: uploads longos agora usam uma tarefa protegida pelo Android com notificacao de progresso, novos eventos nao cancelam o envio atual e a fila e retomada continuam agendadas automaticamente.",
+  "version": "1.1.0",
+  "versionCode": 81,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.0/TCloud-Mobile-1.1.0.apk",
+  "sha256": "51bd64ca2d6ab56a8f85cb0034d1bcf3427c3d6acbf699b7c826dfd4cac278e9",
+  "notes": "TCloud Mobile 1.1.0 amplia o ecossistema: Favoritos, Lixeira recuperavel, Centro de Integridade e reparo, exclusao de pastas do backup, Picture-in-picture, abrir em outro app, protecao contra capturas, busca e filtros integrados, alem das melhorias de backup e desempenho.",
   "mandatory": false
 }
