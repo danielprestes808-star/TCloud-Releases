@@ -1,8 +1,8 @@
 {
-  "version": "1.0.59",
-  "versionCode": 71,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.59/TCloud-Mobile-1.0.59.apk",
-  "sha256": "b3fa9151a57bbf8033e5c580beb004aefc799ffa5a9e5a3d8793ba1ceb52c349",
-  "notes": "TCloud Mobile 1.0.59 - nova interface mais moderna e intuitiva, inicio unificado, busca direta, painel de biblioteca, atalhos claros, pastas identificadas pela origem, navegacao simplificada e listas/grades renovadas.",
+  "version": "1.0.60",
+  "versionCode": 72,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.60/TCloud-Mobile-1.0.60.apk",
+  "sha256": "b6f7415ed9ec3d5fae59ce97754ffb2b6a4d723b43b46f6be6f31bd551b95034",
+  "notes": "TCloud Mobile 1.0.60 - corrige o retorno entre abas: seta e botao/gesto do Android voltam por selecao, busca, pasta e aba antes de fechar o aplicativo.",
   "mandatory": false
 }
