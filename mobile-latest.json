@@ -1,8 +1,8 @@
 {
-  "version": "1.0.65",
-  "versionCode": 77,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.65/TCloud-Mobile-1.0.65.apk",
-  "sha256": "94f45ae8e60f0b3c120bc6b351ed5aa050182095bf28f2fb5efad70c843d2da0",
-  "notes": "TCloud Mobile 1.0.65 inicia a nova interface inspirada em aplicativos modernos de nuvem: identidade visual azul, navegacao separada entre Inicio e Arquivos, pesquisa global, filtros por tipo e offline, visualizacao em lista ou grade, novas acoes de arquivo, central de atividade e configuracoes reorganizadas.",
+  "version": "1.0.66",
+  "versionCode": 78,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.0.66/TCloud-Mobile-1.0.66.apk",
+  "sha256": "1c21fab46e3e52c8195d078ec50eb495cd4c691362f2f4a5eadd166ab2bf6e02",
+  "notes": "TCloud Mobile 1.0.66 muda a navegacao da Galeria: as subpastas agora abrem em uma tela completa com busca, visualizacao em grade ou lista, atualizacao por gesto e indicacao de pastas unificadas.",
   "mandatory": false
 }
