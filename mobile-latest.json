@@ -1,8 +1,1 @@
-{
-  "version": "1.1.1",
-  "versionCode": 82,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.1/TCloud-Mobile-1.1.1.apk",
-  "sha256": "53abfff68d0fc3192b641bcb4fa700944c5f8b342ea633a0b5076635ae38b58e",
-  "notes": "TCloud Mobile 1.1.1 mantem o backup ativo ao sair do app com servico persistente, notificacao de atividade, retomada apos reiniciar ou atualizar o aparelho e protecao orientada contra a economia de bateria. Tambem preserva as melhorias de arquivos, galeria e integridade da versao 1.1.0.",
-  "mandatory": false
-}
+{"version":"1.1.2","versionCode":83,"apkUrl":"https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.2/TCloud-Mobile-1.1.2-compatible.apk","sha256":"4f6a99836d7dad162e171de18c26d71769ee7756ec1cc164a3c888c929adfa96","notes":"Pareamento seguro por dispositivo, catálogo remoto autenticado e melhorias de integração do ecossistema.","mandatory":false}
