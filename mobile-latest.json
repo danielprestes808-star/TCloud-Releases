@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
-  "versionCode": 85,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.4/TCloud-Mobile-1.1.4.apk",
-  "sha256": "dbd62615124818d3c3f2b0ee77aac2e2a057738593799c8a2c1704211efec1da",
-  "notes": "Nova interface TCloud Workspace com controles, listas, menus e progresso consistentes, alvos de toque maiores e melhor organizacao nos temas claro e escuro.",
-  "mandatory": false
+    "version":  "1.1.5",
+    "versionCode":  86,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.5/TCloud-Mobile-1.1.5.apk",
+    "sha256":  "025727e37bfe7e86304a48cb296165096ed1fa28f97f135c2cbe3240c71cb436",
+    "notes":  "Nova interface mobile com cabecalho contextual, identidade visual da nuvem, estado de sincronizacao visivel e navegacao refinada.",
+    "mandatory":  false
 }
