@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.7",
-    "versionCode":  88,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.7/TCloud-Mobile-1.1.7.apk",
-    "sha256":  "2f8bf50bb51b3938278c8590b33144839c9fdc8264790284fb0302102b8208b7",
-    "notes":  "Nova area Meus dispositivos separa Meu telefone e Meu computador e preserva pastas antigas da Galeria.",
+    "version":  "1.1.8",
+    "versionCode":  89,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.8/TCloud-Mobile-1.1.8.apk",
+    "sha256":  "295e0ec4c25d48216f874bc371102323c2c6f2e0ca8e42cf0b2b2d2ee74f4c79",
+    "notes":  "Corrige abertura dos dispositivos, agrega todas as pastas Galeria e Meu computador e simplifica as configuracoes.",
     "mandatory":  false
 }
