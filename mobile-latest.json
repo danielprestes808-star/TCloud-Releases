@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.9",
-    "versionCode":  90,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.9/TCloud-Mobile-1.1.9.apk",
-    "sha256":  "3a255c929688ac27c0ec8e93c0cadd1b32d98a82561db89bc5d6527ecafda9b6",
-    "notes":  "Transforma Meu telefone e Meu computador em raizes navegaveis no estilo Explorer e simplifica a tela interna dos dispositivos.",
+    "version":  "1.1.10",
+    "versionCode":  91,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.10/TCloud-Mobile-1.1.10.apk",
+    "sha256":  "3b37c505a8bfb84ed6c76666e696249e21835744e70819f4aa984564592a0506",
+    "notes":  "Adiciona Voltar nas raizes de dispositivos e estados claros para contas sem telefone ou computador sincronizado.",
     "mandatory":  false
 }
