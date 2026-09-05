@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.6",
-    "versionCode":  87,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.6/TCloud-Mobile-1.1.6.apk",
-    "sha256":  "a40713395e631751ffb58c45cea08244dfc02f8eac4379aec826e49aa7cdedd1",
-    "notes":  "Workspace mobile reformulado com cabecalho contextual e acoes rapidas Adicionar e Arquivos diretamente na tela inicial.",
+    "version":  "1.1.7",
+    "versionCode":  88,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.7/TCloud-Mobile-1.1.7.apk",
+    "sha256":  "2f8bf50bb51b3938278c8590b33144839c9fdc8264790284fb0302102b8208b7",
+    "notes":  "Nova area Meus dispositivos separa Meu telefone e Meu computador e preserva pastas antigas da Galeria.",
     "mandatory":  false
 }
