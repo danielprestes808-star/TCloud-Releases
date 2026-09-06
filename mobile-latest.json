@@ -1,8 +1,8 @@
 {
-  "version": "1.1.11",
-  "versionCode": 92,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.11/TCloud-Mobile-1.1.11.apk",
-  "sha256": "1668284f5e5dce7bd1538bf9b6a81fa9b10639624cc5f6e2084b898239a84cad",
-  "notes": "Contas separadas por usuario, validacao de sessao revogada ou expirada e pareamento por codigo ou QR mais claro e seguro.",
+  "version": "1.1.12",
+  "versionCode": 93,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.12/TCloud-Mobile-1.1.12.apk",
+  "sha256": "0e081e60d1dfab3f02873ed13e9331243a8fa2dc9357aa0a55ecb7f3c0821787",
+  "notes": "Nova identidade TCloud Fluent, carrossel de mídias recentes, navegação mais compacta, bordas discretas, nova paleta e novo ícone.",
   "mandatory": false
 }
