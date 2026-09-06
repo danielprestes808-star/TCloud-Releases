@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.10",
-    "versionCode":  91,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.10/TCloud-Mobile-1.1.10.apk",
-    "sha256":  "3b37c505a8bfb84ed6c76666e696249e21835744e70819f4aa984564592a0506",
-    "notes":  "Adiciona Voltar nas raizes de dispositivos e estados claros para contas sem telefone ou computador sincronizado.",
-    "mandatory":  false
+  "version": "1.1.11",
+  "versionCode": 92,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.11/TCloud-Mobile-1.1.11.apk",
+  "sha256": "1668284f5e5dce7bd1538bf9b6a81fa9b10639624cc5f6e2084b898239a84cad",
+  "notes": "Contas separadas por usuario, validacao de sessao revogada ou expirada e pareamento por codigo ou QR mais claro e seguro.",
+  "mandatory": false
 }
