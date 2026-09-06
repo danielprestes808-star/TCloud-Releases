@@ -1,11 +1,11 @@
 {
-  "version": "13.0.39",
-  "notes": "TCloud 13.0.39 — interface Fluent corrigida e fila de sincronização otimizada.",
-  "pub_date": "2026-09-06T19:58:04Z",
+  "version": "13.0.40",
+  "notes": "TCloud 13.0.40 — redesign estrutural Fluent Workspace v3.",
+  "pub_date": "2026-09-06T20:11:49Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTUd5enZydEtCUmh4cDlPd1lWZzQxa3lON2IrTC95QTF3L3VWSkFwN0twZGNjUXhhc0NkWFljSUVUTUpicXQveDVjbitSVTJrUWRFOXNCbFFBcWFyWGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzI0NjgyCWZpbGU6VENsb3VkXzEzLjAuMzlfeDY0LXNldHVwLmV4ZQpHMkp0NFY1azZjUzJKMXRhZ0hpeGJsSVpYK3lINk1GU3o1dmp6U0xuTHc1UWg1eW9JUjRJU3RmQjFDU1RFWXdjNG9yNmY3bE1OUmljVllScGQ4MThCQT09Cg==",
-      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.39/TCloud-13.0.39-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTURtS2czS0x2M2VYWmc5RWZRTFRXNDdjR0tqaGRESTNSWTZyMmQvNndjWEsveFlXL0VWb3lsNG1JMnJvV0xLNkczQUozVWF6YzNRT1EwY3hDckw2aVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzI1NTA3CWZpbGU6VENsb3VkXzEzLjAuNDBfeDY0LXNldHVwLmV4ZQpkMDY0RGRFSUFRamwxOVlGS3FCTnI5ZnZucXFuTVYwcUNuQkFwQVBvU091MkFtclJmVisrcldSa2cyM3RyMGY5ejZTa0laeVVGbVFOamR3Y0RSR1dBZz09Cg==",
+      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.40/TCloud-13.0.40-Windows-x64-Setup.exe"
     }
   }
 }
