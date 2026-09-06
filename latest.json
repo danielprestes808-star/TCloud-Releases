@@ -1,11 +1,11 @@
 {
-  "version": "13.0.40",
-  "notes": "TCloud 13.0.40 — redesign estrutural Fluent Workspace v3.",
-  "pub_date": "2026-09-06T20:11:49Z",
+  "version": "13.0.41",
+  "notes": "TCloud 13.0.41 — estrutura Explorer, lista de arquivos e configurações integradas.",
+  "pub_date": "2026-09-06T20:30:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTURtS2czS0x2M2VYWmc5RWZRTFRXNDdjR0tqaGRESTNSWTZyMmQvNndjWEsveFlXL0VWb3lsNG1JMnJvV0xLNkczQUozVWF6YzNRT1EwY3hDckw2aVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzI1NTA3CWZpbGU6VENsb3VkXzEzLjAuNDBfeDY0LXNldHVwLmV4ZQpkMDY0RGRFSUFRamwxOVlGS3FCTnI5ZnZucXFuTVYwcUNuQkFwQVBvU091MkFtclJmVisrcldSa2cyM3RyMGY5ejZTa0laeVVGbVFOamR3Y0RSR1dBZz09Cg==",
-      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.40/TCloud-13.0.40-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTU5CdUlsZG9DcEhud1J5c0hXSGxTMmZUZ0M4YWdMWEN4TDc2cUpQektXUVhJbGk2NTd3Zks5aHdPNHBJL0pGU21Oam13SjJkOG9zTjNiT05TN1NiUXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzI2NjQwCWZpbGU6VENsb3VkXzEzLjAuNDFfeDY0LXNldHVwLmV4ZQplTy9NZ3RmeFhHYXVhMVk3M09heWtoOGxpeFpidEd1RWRsNWFaTmp2VElOamlPYXVLNE5wSFlXY2VZNkdqSDkyV3lkREp4dEJoWnJib1AxRm5PKzlDdz09Cg==",
+      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.41/TCloud-13.0.41-Windows-x64-Setup.exe"
     }
   }
 }
