@@ -1,11 +1,11 @@
 {
-  "version": "13.0.42",
-  "notes": "TCloud 13.0.42 — Obsidian Precision Cloud baseado no projeto Stitch aprovado.",
-  "pub_date": "2026-09-06T21:19:12Z",
+  "version": "13.0.43",
+  "notes": "TCloud 13.0.43 — painel React reconstruído a partir do projeto Stitch.",
+  "pub_date": "2026-09-06T21:39:42Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTUJMVWJmZVJWc1phUzgyUWkwQS95Q2JodzkzNDdqTjQ2VkNHWGIxY3JBaUJCVUJ1aFI5dVcraDJ0aGt5cEtsN2dxR21Qc0ViWHJMVlZjQzhDbllXRXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzI5NTQ5CWZpbGU6VENsb3VkXzEzLjAuNDJfeDY0LXNldHVwLmV4ZQpIclVramNSR1lkT3ZaeVkwTkNCaFRkSDJaR2NlUHg2bG1pUDJpbzRWZFdRbWx6RkRRYkd4MlBWWkhzOFhGRTBMS1psUlJ2OXYyY2RCc1laSnpFRTlEdz09Cg==",
-      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.42/TCloud-13.0.42-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTUN0RjVJY3BKYUE1c3BOV1ZsQkQvQWZTa0RKNDRQZU53OFZwSFZtQkJiN0w0eDl2aEdsZ3VmaU5SSkM2M3k4L3d6OXJWKytvakMzc2t0SW5DVEU2aXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzMwNzgwCWZpbGU6VENsb3VkXzEzLjAuNDNfeDY0LXNldHVwLmV4ZQpSYWp0NE94bHZ2eEx1SExNTGhvT1NCdlA4b1dkNzIyMUpHbzc2a0wwY2xHNUswVnB0cXNtRUVKZ0FQdjlxblJIelpjNERmNm01bHhuSmQ4azROeXBEZz09Cg==",
+      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.43/TCloud-13.0.43-Windows-x64-Setup.exe"
     }
   }
 }
