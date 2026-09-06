@@ -1,11 +1,11 @@
 {
-  "version": "13.0.41",
-  "notes": "TCloud 13.0.41 — estrutura Explorer, lista de arquivos e configurações integradas.",
-  "pub_date": "2026-09-06T20:30:43Z",
+  "version": "13.0.42",
+  "notes": "TCloud 13.0.42 — Obsidian Precision Cloud baseado no projeto Stitch aprovado.",
+  "pub_date": "2026-09-06T21:19:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTU5CdUlsZG9DcEhud1J5c0hXSGxTMmZUZ0M4YWdMWEN4TDc2cUpQektXUVhJbGk2NTd3Zks5aHdPNHBJL0pGU21Oam13SjJkOG9zTjNiT05TN1NiUXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzI2NjQwCWZpbGU6VENsb3VkXzEzLjAuNDFfeDY0LXNldHVwLmV4ZQplTy9NZ3RmeFhHYXVhMVk3M09heWtoOGxpeFpidEd1RWRsNWFaTmp2VElOamlPYXVLNE5wSFlXY2VZNkdqSDkyV3lkREp4dEJoWnJib1AxRm5PKzlDdz09Cg==",
-      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.41/TCloud-13.0.41-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTUJMVWJmZVJWc1phUzgyUWkwQS95Q2JodzkzNDdqTjQ2VkNHWGIxY3JBaUJCVUJ1aFI5dVcraDJ0aGt5cEtsN2dxR21Qc0ViWHJMVlZjQzhDbllXRXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzI5NTQ5CWZpbGU6VENsb3VkXzEzLjAuNDJfeDY0LXNldHVwLmV4ZQpIclVramNSR1lkT3ZaeVkwTkNCaFRkSDJaR2NlUHg2bG1pUDJpbzRWZFdRbWx6RkRRYkd4MlBWWkhzOFhGRTBMS1psUlJ2OXYyY2RCc1laSnpFRTlEdz09Cg==",
+      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.42/TCloud-13.0.42-Windows-x64-Setup.exe"
     }
   }
 }
