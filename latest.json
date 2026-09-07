@@ -1,11 +1,11 @@
 {
-  "version": "13.0.45",
-  "notes": "TCloud 13.0.45 — paleta reduzida a preto, grafite e azul-escuro.",
-  "pub_date": "2026-09-07T13:41:24Z",
+  "version": "13.0.46",
+  "notes": "TCloud 13.0.46 — barras contínuas e cartões alinhados em todas as áreas.",
+  "pub_date": "2026-09-07T16:28:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTU1IYWVldUx1QzhIZmVrV0JhYTN5T1pDbHpqYXdaR254RHcrZ0RvN0NpdFFuYVhPc1FMK1VaZWp4eHNhdmxkcVFHRVhqZm1iSEluVStwM1lCNG41Y2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzg4NDgyCWZpbGU6VENsb3VkXzEzLjAuNDVfeDY0LXNldHVwLmV4ZQp0MmRSNGZmdlhVTkNtTkZvd3I3Q20yVmpCZGsrS0N5Qzh1dnJjQVNhbVNLcm9qbFBHdVI2VmJSZkdOYkV2cWdCVklsQ1MrbzRvaEQzZVJoTXVhd1RDdz09Cg==",
-      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.45/TCloud-13.0.45-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTUhRa3lyV3lvWnQwWVMwOHBpQ1p5bWpXWFVHV3IzTisyc084OUVCUFhta1Z2eXA1eEdBZmVZR0VzeUgrekZSc3V4U0p4QldJVkZsdmpxT2FaTS8xeXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzk4NTEyCWZpbGU6VENsb3VkXzEzLjAuNDZfeDY0LXNldHVwLmV4ZQpYSDF3QUhCaWdJdWRqNzd6WjU1bzNWMjN1Yng3aWdHbTRCMnE2S3M0bEFybzg1SEN2c0VVMk1jYkJ2SmVRNTA4MjZFYXhqU0tZakxNaDhVWktQM1hCUT09Cg==",
+      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.46/TCloud-13.0.46-Windows-x64-Setup.exe"
     }
   }
 }
