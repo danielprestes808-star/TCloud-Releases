@@ -1,11 +1,11 @@
 {
-  "version": "13.0.44",
-  "notes": "TCloud 13.0.44 — barras e superfícies unificadas no visual Obsidian Precision.",
-  "pub_date": "2026-09-07T13:17:08Z",
+  "version": "13.0.45",
+  "notes": "TCloud 13.0.45 — paleta reduzida a preto, grafite e azul-escuro.",
+  "pub_date": "2026-09-07T13:41:24Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTUF4bndUdlVsbGd5bVRZMVB0UVVkUVk0a0p6YnlnNmZLTDF0MFk2RTV1cTI5ZGxSMTBzZmlSclRha3I4dWRRODF6UmFwMkNGUnluQmlYK29zT3ZiSkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzg3MDI1CWZpbGU6VENsb3VkXzEzLjAuNDRfeDY0LXNldHVwLmV4ZQowZ200Z2l4SkFFSWhmcXZ6Y05oL1ZMQXQ3WTZxU01iM0JpZXFuV0NJbGhYcnpzYWpXcWJKTWZUa2tMMmluWlhlb0N4aWYwMzVTOU1wNXNXU3p4V3lDdz09Cg==",
-      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.44/TCloud-13.0.44-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTU1IYWVldUx1QzhIZmVrV0JhYTN5T1pDbHpqYXdaR254RHcrZ0RvN0NpdFFuYVhPc1FMK1VaZWp4eHNhdmxkcVFHRVhqZm1iSEluVStwM1lCNG41Y2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzg4NDgyCWZpbGU6VENsb3VkXzEzLjAuNDVfeDY0LXNldHVwLmV4ZQp0MmRSNGZmdlhVTkNtTkZvd3I3Q20yVmpCZGsrS0N5Qzh1dnJjQVNhbVNLcm9qbFBHdVI2VmJSZkdOYkV2cWdCVklsQ1MrbzRvaEQzZVJoTXVhd1RDdz09Cg==",
+      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.45/TCloud-13.0.45-Windows-x64-Setup.exe"
     }
   }
 }
