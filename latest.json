@@ -1,11 +1,11 @@
 {
-  "version": "13.0.46",
-  "notes": "TCloud 13.0.46 — barras contínuas e cartões alinhados em todas as áreas.",
-  "pub_date": "2026-09-07T16:28:35Z",
+  "version": "13.0.47",
+  "notes": "TCloud 13.0.47 — Configurações integrada e barras unificadas.",
+  "pub_date": "2026-09-07T19:19:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTUhRa3lyV3lvWnQwWVMwOHBpQ1p5bWpXWFVHV3IzTisyc084OUVCUFhta1Z2eXA1eEdBZmVZR0VzeUgrekZSc3V4U0p4QldJVkZsdmpxT2FaTS8xeXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzk4NTEyCWZpbGU6VENsb3VkXzEzLjAuNDZfeDY0LXNldHVwLmV4ZQpYSDF3QUhCaWdJdWRqNzd6WjU1bzNWMjN1Yng3aWdHbTRCMnE2S3M0bEFybzg1SEN2c0VVMk1jYkJ2SmVRNTA4MjZFYXhqU0tZakxNaDhVWktQM1hCUT09Cg==",
-      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.46/TCloud-13.0.46-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTURLMTBrckpqRFJQUjJCM0lQdnpSRUVtOHBpZlQ3RjZ1MHlHRGZ1TXRnSVgyTnYwRS9IWkprdzZHMGJtTnU5bjFMcG9LRjhKcDExc3FQUW1MdlhCcVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODA4NzUyCWZpbGU6VENsb3VkXzEzLjAuNDdfeDY0LXNldHVwLmV4ZQp4dnBxcVIwK2h2RUhUd0tNQXFWaklGMmRRVHRoekhwazFLREsydVNkTUJXbnZhUDVEbSt0WnBqYXBDTDd3bVN4Q0oxd1JxaXQwU2Z1UVNWMUxXd2ZCQT09Cg==",
+      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.47/TCloud-13.0.47-Windows-x64-Setup.exe"
     }
   }
 }
