@@ -1,6 +1,6 @@
 {
     "version":  "13.0.58",
-    "notes":  "TCloud 13.0.58 â€” atualizacao automatica assinada.",
+    "notes":  "TCloud 13.0.58 — backup das pastas do computador em tempo real, com fila durável e retomada automática.",
     "pub_date":  "2026-09-09T23:06:28Z",
     "platforms":  {
                       "windows-x86_64":  {
