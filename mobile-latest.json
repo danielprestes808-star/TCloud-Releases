@@ -1,8 +1,8 @@
 {
-  "version": "1.1.15",
-  "versionCode": 96,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.15/TCloud-Mobile-1.1.15.apk",
-  "sha256": "59784960121d7a97d9148ac912defa5ebf800284ddd571513811a08d608ee114",
-  "notes": "Recuperação automática de mídias por identidade canônica quando o ID temporário do Telegram muda, com download em partes e retomada de arquivos grandes.",
+  "version": "1.1.18",
+  "versionCode": 99,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.18/TCloud-Mobile-1.1.18-Android.apk",
+  "sha256": "99a3498a9b93e5c772a65086c4b004ef5727d487c422846e1129940baee03018",
+  "notes": "Scanner de documentos com PDF e correção automática, OCR local e compartilhamento de vários arquivos.",
   "mandatory": false
 }
