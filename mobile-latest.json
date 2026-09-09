@@ -1,8 +1,8 @@
 {
-  "version": "1.1.18",
-  "versionCode": 99,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.18/TCloud-Mobile-1.1.18-Android.apk",
-  "sha256": "99a3498a9b93e5c772a65086c4b004ef5727d487c422846e1129940baee03018",
-  "notes": "Scanner de documentos com PDF e correção automática, OCR local e compartilhamento de vários arquivos.",
+  "version": "1.1.19",
+  "versionCode": 100,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.19/TCloud-Mobile-1.1.19-Android.apk",
+  "sha256": "272011e9e422befaed283ca1d2122a75edb936a393321ef90906be895d161734",
+  "notes": "Contas múltiplas com sessões isoladas e transmissão de fotos e vídeos para dispositivos Google Cast.",
   "mandatory": false
 }
