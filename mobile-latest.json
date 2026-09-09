@@ -1,8 +1,8 @@
 {
-  "version": "1.1.20",
-  "versionCode": 101,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.20/TCloud-Mobile-1.1.20-Android.apk",
-  "sha256": "f2f20112a828115bd81124369697a86773ef2a9ad4d8ad508beeb0ab50467eb6",
-  "notes": "Compartilhamento seguro de pastas por link público, com página web somente leitura e sessão temporária.",
+  "version": "1.1.21",
+  "versionCode": 102,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.21/TCloud-Mobile-1.1.21-Android.apk",
+  "sha256": "706c744ac8fb7802fefa3ab8f4295d2b30b4b6f6d00249e8a236f332468f9040",
+  "notes": "Backup instantâneo em segundo plano: detecta novas fotos e vídeos mesmo com a interface fechada, preserva uploads ativos e retoma automaticamente.",
   "mandatory": false
 }

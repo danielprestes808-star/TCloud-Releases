@@ -1,11 +1,11 @@
 {
-  "version": "13.0.48",
-  "notes": "TCloud 13.0.48 — Configurações transformada em rota real do aplicativo.",
-  "pub_date": "2026-09-07T19:46:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTU4zRW9uZTZqbitudFZhUUNyeldFUEhtTFNpdUdhN1lvYjZHMzlybnovMEZBZ2c5OEEzR1I5OXRqdHVmYzBDem5Sd3RyT0tLcWtxQUhSZUZoZzVqWlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODEwMzU4CWZpbGU6VENsb3VkXzEzLjAuNDhfeDY0LXNldHVwLmV4ZQpySUROZGhKdXdBWng4Yk5JMVlsZnJ0b011bzhVWG8zRmV0dm55M1VJVTU5WGJyYlJpaURHZkdPa0ZlYzNoOG03WWZXNWNiekt4MlhwbmZudHIzMUpBQT09Cg==",
-      "url": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.48/TCloud-13.0.48-Windows-x64-Setup.exe"
-    }
-  }
+    "version":  "13.0.58",
+    "notes":  "TCloud 13.0.58 â€” atualizacao automatica assinada.",
+    "pub_date":  "2026-09-09T23:06:28Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTUxnYnRZellJQTBCNGVMVG81Z09wVGtVN3VIVlFnVGtGeEdxeDJMVEpDR3diaGNIWW4xTXB2VHpwL05pZWN0VmlMQUtRbHpseCtpOHNhTU9WT1VRVUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTk1MTUwCWZpbGU6VENsb3VkXzEzLjAuNThfeDY0LXNldHVwLmV4ZQplaktFWXNmaC9vQmlGMmwyUlU2eGhDYjFmV0lRd2pLYzRlZmhuazhDWFJ0N1NkWGhyaVlKeC9FQWRkckVsWnNwUDNNYWRoc244ZTcrcmc3QmV4d0lEQT09Cg==",
+                                             "url":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.58/TCloud-13.0.58-Windows-x64-Setup.exe"
+                                         }
+                  }
 }
