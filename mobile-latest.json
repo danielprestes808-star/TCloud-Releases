@@ -2,7 +2,7 @@
   "version": "1.1.23",
   "versionCode": 104,
   "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.23/TCloud-Mobile-1.1.23-Android.apk",
-  "sha256": "6da5687ff5ec10fdaab14389abc4df36d5444832ad93de314d5f91721a542f41",
+  "sha256": "4a5fb62f472e34d602dba7712737bccbccf955d4ef459efeb9481d35185480ba",
   "notes": "Foto de perfil, identidade verificada pelo Telegram e gerenciamento de dispositivos e acessos.",
   "mandatory": false
 }
