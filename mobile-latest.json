@@ -1,8 +1,8 @@
 {
-  "version": "1.1.23",
-  "versionCode": 104,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.23/TCloud-Mobile-1.1.23-Android.apk",
-  "sha256": "4a5fb62f472e34d602dba7712737bccbccf955d4ef459efeb9481d35185480ba",
-  "notes": "Foto de perfil, identidade verificada pelo Telegram e gerenciamento de dispositivos e acessos.",
+  "version": "1.1.24",
+  "versionCode": 105,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.24/TCloud-Mobile-1.1.24-Android.apk",
+  "sha256": "ce7ec641498991271018b1d409fabd64a3388a90988cad36d00f281a68d426c8",
+  "notes": "Desbloqueio opcional por impressão digital ou reconhecimento facial após o cadastro.",
   "mandatory": false
 }
