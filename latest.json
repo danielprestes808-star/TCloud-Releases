@@ -1,11 +1,11 @@
 {
-    "version":  "13.0.58",
-    "notes":  "TCloud 13.0.58 — backup das pastas do computador em tempo real, com fila durável e retomada automática.",
-    "pub_date":  "2026-09-09T23:06:28Z",
+    "version":  "13.0.59",
+    "notes":  "TCloud 13.0.59 — novo cadastro de perfil, telefone obrigatório no primeiro acesso e edição de usuário nas Configurações.",
+    "pub_date":  "2026-09-10T00:04:19Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTUxnYnRZellJQTBCNGVMVG81Z09wVGtVN3VIVlFnVGtGeEdxeDJMVEpDR3diaGNIWW4xTXB2VHpwL05pZWN0VmlMQUtRbHpseCtpOHNhTU9WT1VRVUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTk1MTUwCWZpbGU6VENsb3VkXzEzLjAuNThfeDY0LXNldHVwLmV4ZQplaktFWXNmaC9vQmlGMmwyUlU2eGhDYjFmV0lRd2pLYzRlZmhuazhDWFJ0N1NkWGhyaVlKeC9FQWRkckVsWnNwUDNNYWRoc244ZTcrcmc3QmV4d0lEQT09Cg==",
-                                             "url":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.58/TCloud-13.0.58-Windows-x64-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTURKN05zQXJCZ3FCbjEwazQyRGdiREVtNDdLT3VrakJaLy91eTE0dlJxY2xkZWJJclVMN0xoZUJZblVrbXpicWhkbWkrUUtSMlhDNVFINmk0U09uUlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTk4NjUxCWZpbGU6VENsb3VkXzEzLjAuNTlfeDY0LXNldHVwLmV4ZQorOWxVWkhReHMzUUdvMFRTcmhGd08xUjUwdU5STncwTVM5VHpCZVZSNWRXYmVMYWdDbk9hVGdSNVVtV09LM2NKZXViUzBteHJaYThrRDdQZVVjSklCQT09Cg==",
+                                             "url":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.59/TCloud-13.0.59-Windows-x64-Setup.exe"
                                          }
                   }
 }
