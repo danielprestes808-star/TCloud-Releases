@@ -1,11 +1,11 @@
 {
-    "version":  "13.0.59",
-    "notes":  "TCloud 13.0.59 — novo cadastro de perfil, telefone obrigatório no primeiro acesso e edição de usuário nas Configurações.",
-    "pub_date":  "2026-09-10T00:04:19Z",
+    "version":  "13.0.60",
+    "notes":  "TCloud 13.0.60 - perfis verificados, foto de perfil e gerenciamento de dispositivos.",
+    "pub_date":  "2026-09-10T13:19:21Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTURKN05zQXJCZ3FCbjEwazQyRGdiREVtNDdLT3VrakJaLy91eTE0dlJxY2xkZWJJclVMN0xoZUJZblVrbXpicWhkbWkrUUtSMlhDNVFINmk0U09uUlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTk4NjUxCWZpbGU6VENsb3VkXzEzLjAuNTlfeDY0LXNldHVwLmV4ZQorOWxVWkhReHMzUUdvMFRTcmhGd08xUjUwdU5STncwTVM5VHpCZVZSNWRXYmVMYWdDbk9hVGdSNVVtV09LM2NKZXViUzBteHJaYThrRDdQZVVjSklCQT09Cg==",
-                                             "url":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.59/TCloud-13.0.59-Windows-x64-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTU9SUWYvbFMweWRXUzFQajRGVXc2OVZVaFJ4SFdyVmV1a2tJTkNWN1pxT1JuZjk1enppcUhyVXd3aTllQmZJc0pROHI4UmxZa1ZTNTNBajZNdjBDSndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDQ2Mjc4CWZpbGU6VENsb3VkXzEzLjAuNjBfeDY0LXNldHVwLmV4ZQpZanN3Vm1IbUNvOVU2eDZLTndOT014VWRtTDRxeHRKVytmUmhNS3U0azBGUG1jN3h0TmhsVkRVL29JUjFXdVVMUktTakErR1ZDZGpKZzlybUliMzhCdz09Cg==",
+                                             "url":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.60/TCloud-13.0.60-Windows-x64-Setup.exe"
                                          }
                   }
 }
