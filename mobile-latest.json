@@ -1,8 +1,8 @@
 {
-  "version": "1.1.35",
-  "versionCode": 116,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.35/TCloud-Mobile-1.1.35-Android.apk",
-  "sha256": "76ce281de2f41fe2192a65726cb10a43aa3ad318b615655291a4ea17c0a2363d",
-  "notes": "Seletor do Android aprimorado com Recentes, pesquisa, miniaturas de imagens e ocultação de arquivos técnicos temporários.",
+  "version": "1.1.36",
+  "versionCode": 117,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.36/TCloud-Mobile-1.1.36-Android.apk",
+  "sha256": "618b69c491d3afec7483759ff6e6a83a5acee98e0543186a285cad8ae20fdb75",
+  "notes": "Arquivos locais organizados por Imagens, Vídeos, Áudios, Documentos e Outros no seletor do Android, sem duplicatas de cache.",
   "mandatory": false
 }
