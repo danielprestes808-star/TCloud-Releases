@@ -1,8 +1,8 @@
 {
-  "version": "1.1.29",
-  "versionCode": 110,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.29/TCloud-Mobile-1.1.29-Android.apk",
-  "sha256": "d3dfea4a1d6c02940201c54b9472e9952ad23ae2e0a79e7829d4aa527da04ca3",
-  "notes": "Pesquisa global por nome, extensao, MIME e tipo, historico de buscas e filtros combinados por periodo e tamanho.",
+  "version": "1.1.30",
+  "versionCode": 111,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.30/TCloud-Mobile-1.1.30-Android.apk",
+  "sha256": "884807ed8e6a1887ec82d00a6de7d43cc7f9322dd2c2623c262902ae3581ea5b",
+  "notes": "Visualizador com preferencias persistentes, reproducao automatica do proximo video, repeticao e navegacao anterior/proximo.",
   "mandatory": false
 }
