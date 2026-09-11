@@ -1,8 +1,8 @@
 {
-  "version": "1.1.27",
-  "versionCode": 108,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.27/TCloud-Mobile-1.1.27-Android.apk",
-  "sha256": "d12453580c79d6bf89e60f8b234ae980124d999379701bc8ca7049c34f3cdf4b",
-  "notes": "Biblioteca inicial com grade ajustavel, ordenacao, filtros inteligentes, privacidade de miniaturas, duplicados e Continuar assistindo.",
+  "version": "1.1.28",
+  "versionCode": 109,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.28/TCloud-Mobile-1.1.28-Android.apk",
+  "sha256": "f2c12ec63deec499e992475544143d38d697af0ea1a4f16867d563e1cf476c88",
+  "notes": "Arquivos agrupados por data, selecao avancada em lote e central de sincronizacao com velocidade, previsao e deteccao de travamento.",
   "mandatory": false
 }
