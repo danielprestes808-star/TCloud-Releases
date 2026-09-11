@@ -1,8 +1,8 @@
 {
-  "version": "1.1.24",
-  "versionCode": 105,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.24/TCloud-Mobile-1.1.24-Android.apk",
-  "sha256": "ce7ec641498991271018b1d409fabd64a3388a90988cad36d00f281a68d426c8",
-  "notes": "Desbloqueio opcional por impressão digital ou reconhecimento facial após o cadastro.",
+  "version": "1.1.25",
+  "versionCode": 106,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.25/TCloud-Mobile-1.1.25-Android.apk",
+  "sha256": "033f4946fe6395f7400b72c9997d411c771e4d36dea9f6e6dde593a4e00b9fdf",
+  "notes": "Perfil persistente com recuperação automática e filtros Todos, Fotos e Vídeos na tela inicial.",
   "mandatory": false
 }
