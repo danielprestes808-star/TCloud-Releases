@@ -2,7 +2,7 @@
   "version": "1.1.25",
   "versionCode": 106,
   "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.25/TCloud-Mobile-1.1.25-Android.apk",
-  "sha256": "033f4946fe6395f7400b72c9997d411c771e4d36dea9f6e6dde593a4e00b9fdf",
+  "sha256": "891e939568418c9486217018cecdbd73de2e4b43a840ea9d65074d5f8b263456",
   "notes": "Perfil persistente com recuperação automática e filtros Todos, Fotos e Vídeos na tela inicial.",
   "mandatory": false
 }
