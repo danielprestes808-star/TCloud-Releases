@@ -1,11 +1,11 @@
 {
-    "version":  "13.0.60",
-    "notes":  "TCloud 13.0.60 - perfis verificados, foto de perfil e gerenciamento de dispositivos.",
-    "pub_date":  "2026-09-10T13:19:21Z",
+    "version":  "13.0.61",
+    "notes":  "TCloud 13.0.61 - pasta Downloads adicionada às opções de backup do computador e melhorias de integração com o ecossistema.",
+    "pub_date":  "2026-09-11T20:24:04Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTU9SUWYvbFMweWRXUzFQajRGVXc2OVZVaFJ4SFdyVmV1a2tJTkNWN1pxT1JuZjk1enppcUhyVXd3aTllQmZJc0pROHI4UmxZa1ZTNTNBajZNdjBDSndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDQ2Mjc4CWZpbGU6VENsb3VkXzEzLjAuNjBfeDY0LXNldHVwLmV4ZQpZanN3Vm1IbUNvOVU2eDZLTndOT014VWRtTDRxeHRKVytmUmhNS3U0azBGUG1jN3h0TmhsVkRVL29JUjFXdVVMUktTakErR1ZDZGpKZzlybUliMzhCdz09Cg==",
-                                             "url":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.60/TCloud-13.0.60-Windows-x64-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU8vSjlWOGZoTU5ENkVxeE1sRTk0NCtIb3h2UkFDTHBPZHZwWDEzSWptbEc4eFFyc0dqK2hRSjdPemhmU3RIZDlwcVozWi9LS0NaTHZpcWh2bytNalVhR0dFdXFWMnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTU4MjQwCWZpbGU6VENsb3VkXzEzLjAuNjFfeDY0LXNldHVwLmV4ZQplN1ZpK1VOSHV2c3VSYnMyb0Fsb1dOM1gwVWE3Wk8xekVmQW5uQzFiZFBHYkduUWo3R3JPQkpSVUkrSm93VTNJRmJoaVFZb2xSaG0xZUE5dWlQVzlDQT09Cg==",
+                                             "url":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/v13.0.61/TCloud-13.0.61-Windows-x64-Setup.exe"
                                          }
                   }
 }
