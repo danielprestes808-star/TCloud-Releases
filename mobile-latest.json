@@ -1,8 +1,8 @@
 {
-  "version": "1.1.32",
-  "versionCode": 113,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.32/TCloud-Mobile-1.1.32-Android.apk",
-  "sha256": "bc587e35334f1e6a143f8d5d16b969e20c1ca52567d612f46e38b77acf681720",
-  "notes": "Privacidade aprimorada com tempo configuravel para o bloqueio biometrico automatico ao retornar ao aplicativo.",
+  "version": "1.1.33",
+  "versionCode": 114,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.33/TCloud-Mobile-1.1.33-Android.apk",
+  "sha256": "309d760513745310a758337f3ef8c166794c632bd26d655f217cab17f17a1ff4",
+  "notes": "Pastas inteiras podem ficar offline e os arquivos locais do TCloud aparecem no seletor do Android para upload em sites e outros aplicativos.",
   "mandatory": false
 }
