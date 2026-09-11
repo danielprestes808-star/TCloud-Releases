@@ -1,8 +1,8 @@
 {
-  "version": "1.1.25",
-  "versionCode": 106,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.25/TCloud-Mobile-1.1.25-Android.apk",
-  "sha256": "891e939568418c9486217018cecdbd73de2e4b43a840ea9d65074d5f8b263456",
-  "notes": "Perfil persistente com recuperação automática e filtros Todos, Fotos e Vídeos na tela inicial.",
+  "version": "1.1.26",
+  "versionCode": 107,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.26/TCloud-Mobile-1.1.26-Android.apk",
+  "sha256": "2aaddb8002b414cacdcad1ee347e846e69b474a13f635529497c22759a7c831c",
+  "notes": "Carrossel recente mais fluido e grade completa com filtros Todos, Fotos e Vídeos na tela inicial.",
   "mandatory": false
 }
