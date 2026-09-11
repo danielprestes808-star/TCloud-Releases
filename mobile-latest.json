@@ -1,8 +1,8 @@
 {
-  "version": "1.1.31",
-  "versionCode": 112,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.31/TCloud-Mobile-1.1.31-Android.apk",
-  "sha256": "63af24f9d13289eb5e0b581f215a883c1c907e8f8fce3aabbf50c38bef3b8bf0",
-  "notes": "Painel de armazenamento com uso da nuvem, offline, arquivos grandes, antigos e revisao segura de possiveis duplicados.",
+  "version": "1.1.32",
+  "versionCode": 113,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.32/TCloud-Mobile-1.1.32-Android.apk",
+  "sha256": "bc587e35334f1e6a143f8d5d16b969e20c1ca52567d612f46e38b77acf681720",
+  "notes": "Privacidade aprimorada com tempo configuravel para o bloqueio biometrico automatico ao retornar ao aplicativo.",
   "mandatory": false
 }
