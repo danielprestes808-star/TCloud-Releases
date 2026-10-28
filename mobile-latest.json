@@ -1,8 +1,8 @@
 {
-  "version": "1.1.36",
-  "versionCode": 117,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.36/TCloud-Mobile-1.1.36-Android.apk",
-  "sha256": "618b69c491d3afec7483759ff6e6a83a5acee98e0543186a285cad8ae20fdb75",
-  "notes": "Arquivos locais organizados por Imagens, Vídeos, Áudios, Documentos e Outros no seletor do Android, sem duplicatas de cache.",
+  "version": "1.1.38",
+  "versionCode": 119,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.38/TCloud-Mobile-1.1.38-Android.apk",
+  "sha256": "6f31d9570194d21ed4629439d10a64f3ed721ae567d8bcdc4542d9bb9c142010",
+  "notes": "Central de Armazenamento e Cache, limpeza de temporários e miniaturas com 1 toque, remoção seletiva de arquivos offline e otimização do ecossistema TCloud.",
   "mandatory": false
 }
