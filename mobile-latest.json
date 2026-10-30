@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.39",
-    "versionCode":  120,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.39/TCloud-Mobile-1.1.39-Android.apk",
-    "sha256":  "abf760e7fe2b0619dfdd81336d442b222fca6758ea492aca53f5cd401637b524",
-    "notes":  "Agrupamento facial local por álbum e filtros para imagens e vídeos na galeria. A análise usa apenas mídias já baixadas.",
+    "version":  "1.1.40",
+    "versionCode":  121,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.40/TCloud-Mobile-1.1.40-Android.apk",
+    "sha256":  "781ebb635c8a578f52b2eba8f3e0b5c215336d1eadf4de3b9396e685d70e67a3",
+    "notes":  "Melhorias na galeria, grupos faciais revisáveis e fila de sincronização com nova tentativa. Correções na versão exibida, remoção offline e identificação de possíveis duplicados.",
     "mandatory":  false
 }
