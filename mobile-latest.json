@@ -1,8 +1,8 @@
 {
-  "version": "1.1.38",
-  "versionCode": 119,
-  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.38/TCloud-Mobile-1.1.38-Android.apk",
-  "sha256": "6f31d9570194d21ed4629439d10a64f3ed721ae567d8bcdc4542d9bb9c142010",
-  "notes": "Central de Armazenamento e Cache, limpeza de temporários e miniaturas com 1 toque, remoção seletiva de arquivos offline e otimização do ecossistema TCloud.",
-  "mandatory": false
+    "version":  "1.1.39",
+    "versionCode":  120,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.39/TCloud-Mobile-1.1.39-Android.apk",
+    "sha256":  "abf760e7fe2b0619dfdd81336d442b222fca6758ea492aca53f5cd401637b524",
+    "notes":  "Agrupamento facial local por álbum e filtros para imagens e vídeos na galeria. A análise usa apenas mídias já baixadas.",
+    "mandatory":  false
 }
