@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.43",
-    "versionCode":  124,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.43/TCloud-Mobile-1.1.43-Android.apk",
-    "sha256":  "6ce1895008329273b9b2782606504c3fd8156a855674d2353227ad319fff576b",
-    "notes":  "Pastas mais simples: busca igual nos modos Lista e Galeria, menu de ações reduzido, seleção em lote mais limpa e agrupamento por rosto disponível também em pastas de vídeos.",
+    "version":  "1.1.44",
+    "versionCode":  125,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.44/TCloud-Mobile-1.1.44-Android.apk",
+    "sha256":  "2e9112aaf1bc7320ab0bd3d8a0741b478db6318399591656790e5ed6d97c50c0",
+    "notes":  "Fotos e Arquivos separados: galeria cronológica com busca, filtros e retomada de vídeos; navegação direta para Pessoas, Transferências e Ajustes.",
     "mandatory":  false
 }
