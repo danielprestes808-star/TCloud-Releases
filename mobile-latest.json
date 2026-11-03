@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.45",
-    "versionCode":  126,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.45/TCloud-Mobile-1.1.45-Android.apk",
-    "sha256":  "329258bbe1bb74b14c92a2771f912eb092b51c6b8640d272da548e28c8dd5fe3",
-    "notes":  "A galeria Fotos carrega todas as páginas do histórico do Telegram em todas as pastas, incluindo vídeos, e avisa quando alguma pasta falha.",
+    "version":  "1.1.46",
+    "versionCode":  127,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.46/TCloud-Mobile-1.1.46-Android.apk",
+    "sha256":  "d4632777015edebb76ad9da3a55e3eeef7d5cbf6f6bc08277be6823165635d68",
+    "notes":  "Reconhecimento facial automático local da biblioteca e novas mídias enquanto o aparelho carrega, filtro por pessoa e resumo do backup.",
     "mandatory":  false
 }
