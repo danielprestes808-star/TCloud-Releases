@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.44",
-    "versionCode":  125,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.44/TCloud-Mobile-1.1.44-Android.apk",
-    "sha256":  "2e9112aaf1bc7320ab0bd3d8a0741b478db6318399591656790e5ed6d97c50c0",
-    "notes":  "Fotos e Arquivos separados: galeria cronológica com busca, filtros e retomada de vídeos; navegação direta para Pessoas, Transferências e Ajustes.",
+    "version":  "1.1.45",
+    "versionCode":  126,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.45/TCloud-Mobile-1.1.45-Android.apk",
+    "sha256":  "329258bbe1bb74b14c92a2771f912eb092b51c6b8640d272da548e28c8dd5fe3",
+    "notes":  "A galeria Fotos carrega todas as páginas do histórico do Telegram em todas as pastas, incluindo vídeos, e avisa quando alguma pasta falha.",
     "mandatory":  false
 }
