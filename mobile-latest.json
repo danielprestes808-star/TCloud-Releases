@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.46",
-    "versionCode":  127,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.46/TCloud-Mobile-1.1.46-Android.apk",
-    "sha256":  "8e6175ae0dba9a3ffd7900927924cb9db534ae41680d61f8fadba0be422d54bd",
-    "notes":  "Reconhecimento facial automático local da biblioteca e novas mídias enquanto o aparelho carrega, filtro por pessoa e resumo do backup.",
-    "mandatory":  false
+    "version":  "1.1.48",
+    "notes":  "Busca da tela inicial e das pastas agrupada por 250 ms antes de refiltrar a biblioteca; miniaturas decodificadas no tamanho exibido, com menos memoria e engasgos em grades grandes.",
+    "sha256":  "7d910274b94b6e231d2795c977dc846a923116a46e0b4c1b437fe09446282c44",
+    "versionCode":  129,
+    "mandatory":  false,
+    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.48/TCloud-Mobile-1.1.48-Android.apk"
 }
