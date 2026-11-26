@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.49",
-    "notes":  "Diagnostico com buffer de erros, seletor de idioma em Ajustes, escala de fonte respeitada, selecao por arraste sem refiltrar a pasta e APK cerca de 100 MB menor.",
-    "sha256":  "3f3621f6e99841cd9d3137d5548ca39c7418f6ae293f10b5151ca6c6e75d792f",
-    "versionCode":  130,
-    "mandatory":  false,
-    "apkUrl":  "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.49/TCloud-Mobile-1.1.49-Android.apk"
+  "version": "1.1.50",
+  "versionCode": 131,
+  "apkUrl": "https://github.com/danielprestes808-star/TCloud-Releases/releases/download/mobile-v1.1.50/TCloud-Mobile-1.1.50-Android.apk",
+  "sha256": "b904664db560f2a7a5f9b7cef4dafe7fcde172456d1df933f26a4416c6eb0e27",
+  "notes": "Abas preservam estado, busca global, ações com rótulos visíveis e melhorias de acessibilidade e visualização de mídia.",
+  "mandatory": false
 }
